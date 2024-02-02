@@ -1,0 +1,23 @@
+{
+  "name": "ChangeStreamExampleWithMongoAndNodeJs",
+  "version": "1.0.0",
+  "description": "MongoDb Change Stream with nodejs example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mongodb-change-streams-nodejs-example.git"
+  },
+  "author": "pradyuman Mishra <prdmnmshr@gmail.com>",
+  "license": "PM",
+  "bugs": {
+    "url": "https://github.com/prdmnmshr/mongodb-change-streams-nodejs-example/issues"
+  },
+  "homepage": "https://github.com/prdmnmshr/mongodb-change-streams-nodejs-example#readme",
+  "dependencies": {
+    "mongodb": "^3.7.4"
+  }
+}
